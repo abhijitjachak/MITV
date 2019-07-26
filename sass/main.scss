@@ -1,0 +1,381 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "mixin.scss";
+
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;  
+}
+
+body{
+font-family: 'Lusitana', serif;
+font-size: 16px;
+}  
+
+.container{
+max-width: 1720px;
+margin: 0 auto;
+}  
+
+a{
+    text-decoration: none;  
+}
+
+a:hover{
+    text-decoration: none;  
+}
+
+li{
+    list-style-type: none;
+}
+
+.pt-100{
+    padding-top:100px; 
+}
+/* ==========================================================================
+Header section css start
+========================================================================== */
+
+nav{
+    .navbar-nav{
+        .nav-item{
+            .nav-link{
+            color: #252a33; 
+            padding: 0 30px; 
+           }
+        }
+    }
+}
+
+header{
+    padding: 40px 0;
+}
+
+/* ==========================================================================
+first-text section css start
+========================================================================== */
+
+
+.first-text-section{
+  background: #f8323f;
+    .slider-img{
+      transform: translate(-11px,-30px);
+    }
+}
+
+.first-text-section{
+    .row{
+        img{
+            width:100%;
+        }
+    }
+}
+
+
+/* ==========================================================================
+about section css start
+========================================================================== */
+.new-about-section{
+    background: #f7fcff;
+
+    .container{
+        padding: 0 150px;
+    }
+    .about-info-heading{
+        font-size: 100px;
+        margin-bottom: 30px;
+        hr{
+            display: inline-block;
+            background: #f73646;
+            height: 16px;
+            width: 94px;
+        }
+    }
+    .about-info-para{
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .about-section-img img{
+        width:100%;
+    }
+
+    .watch-now-btn {
+        background: #f73646;
+        padding: 30px 160px;
+        margin-top: 50px;
+        a{
+            color: white;
+            font-size: 18px;
+        }
+    }
+
+    .big-circle-svg {
+        top: 450px;
+        right: 575px;
+    }
+
+    // .square-svg{
+    //     right: -301px;
+    //     top: 100px;
+    // }
+}
+// .about-section{
+//     .about-info-heading{
+//         hr{
+//             display: inline-block;
+//             background: #f73646;
+//             height: 15px;
+//             width: 95px;
+//         }
+//     }
+    
+//     .container-fluid{
+//         background: #f7fcff;
+//     }
+
+//     .about-info{
+//         .slider-red-circle{
+//             width: 276px;
+//             height: 276px;
+//             background: #ed2727;
+//             border-radius: 50%;
+//         }
+//         .about-info-heading{
+//             font-size: 100px;
+//         }
+
+//         .about-btn{
+//             background: #f8323f;
+//             padding: 30px 150px;
+//             color: white;
+//         }
+
+//         .about-info-para{
+//             font-size: 18px;
+//             padding: 20px 0 40px 0px;
+//         }
+
+//         .about-btn a{
+//             color: white;
+//             font-size: 18px;
+//             text-decoration: none;
+//         }
+        
+//     }
+// }
+
+// .about-img img{
+//     width: 100%;
+//     background: #e91a1b;
+// }
+
+
+/* ==========================================================================
+channel section css start
+========================================================================== */
+
+
+.channels-section{
+    padding: 100px 0;
+
+    .channel-shows {
+        .right-side-channel-bg{
+            hr{
+                display: inline-block;
+                background:#f73646;
+                height: 15px;
+                width: 120px;
+                margin-left: 50px;
+            }
+        }
+    }
+
+    .container{
+        .channel-shows ,
+        .channel-video{
+            border-bottom: 10px solid white;
+        }
+    }
+
+    .left-side-channel ,
+    .left-side-sport ,
+    .right-side-sport{
+        background: #000000;
+        padding-top: 150px;
+        padding-bottom: 350px;
+        border-right:10px solid white;
+    }
+        h2 ,
+        .channel-fashion h2{
+            color: white;
+            font-size: 72px;
+        }
+        
+        p ,
+        .channel-fashion p{
+            font-size: 28px;
+            color: white;
+        }
+
+    .right-side-channel {
+        background-color:#111113;
+        background-image: url('../images/right-side-channel-img.png');
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+
+        h2{
+            color: white;
+            font-size: 100px;
+        }   
+
+        .right-side-channel-bg{
+            padding-left: 130px;
+        }
+
+    }
+
+    .channel-view-all-btn{
+        margin-top: 60px;
+        a{
+            font-size: 18px;
+            padding: 30px 85px;
+            color: white;
+            background: #f73646;
+            text-decoration: none;
+         
+        }
+    }
+}
+
+/* ==========================================================================
+sports section css start
+========================================================================== */
+
+video {
+    width: 100%;
+    height: auto;
+  }
+
+
+/* ==========================================================================
+news section css start
+========================================================================== */
+
+.news-section{
+    background-image: url(../images/right-top-vector.png), url(../images/left-bottom-vector.png);
+    background-position: 1060px -481px,-213px 465px;
+    background-color: #000000;
+    color: white;
+    padding: 0 150px;
+    background-size: 1353px , 1319px;
+    background-repeat: no-repeat;
+
+    .news-first-para {
+        margin-bottom: 150px;
+        h2{
+            font-size: 36px;
+        }
+        img{
+            margin-right: 50px;
+        }
+        p{
+            font-size: 18px;
+        }
+    }
+
+    .news-section-heading{
+        font-size: 100px;
+        line-height: 100px;
+        margin: 0;
+        padding-bottom: 140px;
+        // background-image: url(../images/right-top-vector.png);
+        padding-top: 100px;
+        background-position: 839px -287px;
+        background-repeat: no-repeat;
+        background-size: 1000px 1000px;
+        
+        hr{
+            display: inline-block;
+            background: #f73646;
+            height: 15px;
+            width: 95px;
+        }
+    }
+}
+
+.news-section-bg-img{
+    background-image: url(../images/left-bottom-vector.png);
+    background-size: 1000px 1000px;
+    background-repeat: no-repeat;
+    background-position-y: 700px;
+    background-position-x: -121px;    
+}
+
+
+
+/* ==========================================================================
+footer section css start
+========================================================================== */
+
+.footer{
+    background: #000000;
+    color: white;
+    background-image: url(../images/left-bottom-vector.png);
+    background-repeat: no-repeat;
+    background-position: -164px 169px;
+
+    .client-section{
+        background: white;
+        padding: 0 150px;
+
+        .client{
+            padding: 150px 0;
+        }
+    }
+    .footer-menu{
+        padding: 100px 150px;
+        ul{
+            li{
+                padding: 20px 0;
+                a{
+                    font-size: 18px;
+                    color:#bababa;
+                }
+            }
+        }
+    }
+
+    hr{
+        background: #29292b;
+        margin: 0;
+    }
+}
+
+
+
+.footer-logo{
+    padding: 0 150px;
+    color: #bababa;
+
+    .social-icons{
+        i{
+            margin: 0 15px;
+            color: #bababa;
+        }
+    }
+
+    .row{
+        padding: 50px 0;
+    }
+}
+
+.footer .footer-menu ul li:nth-of-type(1){
+    padding-top: 0;
+}
+
+.footer .footer-menu ul li:nth-of-type(4){
+    padding-bottom: 0;
+}
