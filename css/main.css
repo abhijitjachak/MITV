@@ -7094,8 +7094,11 @@ about section css start
       color: white;
       font-size: 18px; }
   .new-about-section .big-circle-svg {
-    top: 450px;
-    right: 575px; }
+    top: 347px;
+    right: 410px; }
+  .new-about-section .square-svg {
+    right: -200px;
+    top: 72px; }
 
 /* ==========================================================================
 channel section css start
