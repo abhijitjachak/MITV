@@ -53,21 +53,12 @@ header{
 }
 
 /* ==========================================================================
-first-text section css start
+Hero Header section css start
 ========================================================================== */
-
-
-.first-text-section{
-  background: #f8323f;
-    .slider-img{
-      transform: translate(-11px,-30px);
-    }
-}
-
-.first-text-section{
-    .row{
+.hero-header-section{
+    .hero-img{
         img{
-            width:100%;
+            width:10%;
         }
     }
 }

@@ -7056,15 +7056,10 @@ header {
   padding: 40px 0; }
 
 /* ==========================================================================
-first-text section css start
+Hero Header section css start
 ========================================================================== */
-.first-text-section {
-  background: #f8323f; }
-  .first-text-section .slider-img {
-    transform: translate(-11px, -30px); }
-
-.first-text-section .row img {
-  width: 100%; }
+.hero-header-section .hero-img img {
+  width: 10%; }
 
 /* ==========================================================================
 about section css start
