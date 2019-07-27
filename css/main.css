@@ -7067,10 +7067,11 @@ Hero Header section css start
   background: #f8323f; }
 
 .hero-header-section h1 {
-  font-size: 383px;
+  font-size: 10px;
   color: white;
   line-height: 350px;
-  margin-top: 50px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 /* ==========================================================================
 about section css start
