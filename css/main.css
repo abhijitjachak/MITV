@@ -7061,6 +7061,9 @@ Hero Header section css start
 .hero-header-section .hero-img img {
   width: 100%; }
 
+.hero-header-section .row {
+  background: #f8323f; }
+
 /* ==========================================================================
 about section css start
 ========================================================================== */
