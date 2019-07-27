@@ -7059,7 +7059,7 @@ header {
 Hero Header section css start
 ========================================================================== */
 .hero-header-section .hero-img {
-  top: -2px;
+  top: 1px;
   left: -89px; }
 
 .hero-header-section .row {
@@ -7071,6 +7071,9 @@ Hero Header section css start
   line-height: 350px;
   padding-top: 50px;
   padding-bottom: 50px; }
+
+.hero-header-section .first-take-heading {
+  z-index: 1; }
 
 /* ==========================================================================
 about section css start
