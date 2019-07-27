@@ -7079,7 +7079,8 @@ Hero Header section css start
 about section css start
 ========================================================================== */
 .new-about-section {
-  background: #f7fcff; }
+  background: #f7fcff;
+  padding: 100px 0; }
   .new-about-section .container {
     padding: 0 150px; }
   .new-about-section .about-info-heading {
