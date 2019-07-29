@@ -297,7 +297,6 @@ footer section css start
     .footer-menu{
         padding: 0 150px;
         ul{
-            padding: 100px 0px;
             li{
                 padding: 20px 0;
                 a{
@@ -305,6 +304,10 @@ footer section css start
                     color:#bababa;
                 }
             }
+        }
+
+        .footer-col{
+            padding: 100px 0;
         }
     }
 
