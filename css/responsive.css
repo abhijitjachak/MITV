@@ -28,4 +28,7 @@
     .footer .client-section .client {
         padding: 30px 0;
     }
+    .footer .client-section {
+        padding: 0;
+    }
 }
