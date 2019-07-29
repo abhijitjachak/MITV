@@ -20,4 +20,8 @@
     .footer-logo .social-icons i{
         margin-left: 0;  
     }
+    .footer-logo .row {
+        padding: 20px 0;
+        line-height: 40px;
+    }
 }
