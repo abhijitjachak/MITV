@@ -14,4 +14,7 @@
     .footer .footer-menu ul li {
         padding: 8px 0;
     }
+    .footer-logo {
+        padding: 0 30px;
+    }
 }
