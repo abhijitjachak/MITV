@@ -7218,19 +7218,21 @@ footer section css start
   color: white;
   background-image: url(../images/left-bottom-vector.png);
   background-repeat: no-repeat;
-  background-position: -164px 169px; }
+  background-position: -363px 485px; }
   .footer .client-section {
     background: white;
     padding: 0 150px; }
     .footer .client-section .client {
       padding: 150px 0; }
   .footer .footer-menu {
-    padding: 100px 150px; }
+    padding: 0 150px; }
     .footer .footer-menu ul li {
       padding: 20px 0; }
       .footer .footer-menu ul li a {
         font-size: 18px;
         color: #bababa; }
+    .footer .footer-menu .footer-col {
+      padding: 100px 0; }
   .footer hr {
     background: #29292b;
     margin: 0; }
