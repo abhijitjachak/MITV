@@ -24,4 +24,8 @@
         padding: 20px 0;
         line-height: 40px;
     }
+
+    .footer .client-section .client {
+        padding: 50px 0;
+    }
 }
