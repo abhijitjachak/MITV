@@ -80,15 +80,18 @@
         margin-top: 15px;
     }
 
-    .channels-section h2, .channels-section .channel-fashion h2 {
+    .channels-section h2, 
+    .channels-section .channel-fashion h2 {
         font-size: 40px;
     }
 
-    .channels-section p, .channels-section .channel-fashion p {
+    .channels-section p, 
+    .channels-section .channel-fashion p {
         font-size: 18px;
     }
 
-    .channels-section .left-side-sport{
+    .channels-section .right-side-sport {
         border-right: none;
     }
+
 }
