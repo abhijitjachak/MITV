@@ -132,10 +132,18 @@
         display: block;
     }
     .new-about-section .about-info-para{
-        font-size: 15px;
+        font-size: 16px;
     }
 
     .new-about-section .watch-now-btn{
         padding: 10px 50px;
+    }
+
+    .new-about-section .container{
+        padding: 0 15px;
+    }
+    .new-about-section .small-circle-svg ,
+    .new-about-section .square-svg{
+        display: none;
     }
 }
