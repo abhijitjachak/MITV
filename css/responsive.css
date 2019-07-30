@@ -31,4 +31,15 @@
     .footer .client-section {
         padding: 0;
     }
+
+    .news-section .news-section-heading{
+    font-size: 40px;
+    line-height: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    }
+
+    .news-section{
+        padding:0 15px;
+    }
 }
