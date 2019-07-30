@@ -7062,9 +7062,6 @@ Hero Header section css start
   top: 1px;
   left: -89px; }
 
-.hero-header-section .row {
-  background: #f8323f; }
-
 .hero-header-section h1 {
   font-size: 383px;
   color: white;
@@ -7253,5 +7250,8 @@ footer section css start
 .footer .footer-menu ul li:nth-of-type(4) {
   padding-bottom: 0; }
 
-.first-take-heading:before {
-  content: 'klsjffskfkskerfkrlfklsfkslfmklwmfklwfmklwefled'; }
+.hero-header-section .row:before {
+  content: '';
+  width: 500px;
+  height: 500px;
+  background-image: url("../images/slider.png"); }
