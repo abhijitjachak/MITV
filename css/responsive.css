@@ -146,4 +146,12 @@
     .new-about-section .square-svg{
         display: none;
     }
+
+    .new-about-section .about-info-heading{
+        font-size: 40px;
+    }
+
+    .new-about-section .about-info-heading hr{
+        height: 8px;
+    }
 }
