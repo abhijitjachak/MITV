@@ -7251,7 +7251,6 @@ footer section css start
   padding-bottom: 0; }
 
 .hero-header-section .row:before {
-  content: '';
+  content: ' <img src="images/about.png" alt="About-image" title="About-image"> ';
   width: 500px;
-  height: 500px;
-  background-image: url("../images/slider.png"); }
+  height: 500px; }
