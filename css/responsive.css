@@ -120,5 +120,8 @@
 
     .hero-header-section img{
         width: 80%;
+        top: 79px;
+        left: -1px;
+    
     }
 }
