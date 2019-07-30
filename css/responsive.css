@@ -5,6 +5,25 @@
     }
 } */
 
+@media(max-width:992px){
+    .channels-section .right-side-sport ,
+    .channels-section .left-side-sport ,
+    .channels-section .left-side-channel {
+        border-right: none;
+        padding: 150px 0;
+    }
+}
+@media(max-width:768px){
+
+}
+
+
+
+
+
+
+
+
 
 @media(max-width:520px){
     .footer .footer-menu {
@@ -90,13 +109,12 @@
     .channels-section .channel-fashion p {
         font-size: 18px;
     }
-
-    .channels-section .right-side-sport ,
+    /* .channels-section .right-side-sport ,
     .channels-section .left-side-sport ,
     .channels-section .left-side-channel {
         border-right: none;
         padding: 150px 0;
-    }
+    } */
 
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 0;
