@@ -344,8 +344,7 @@ footer section css start
 }
 
 
-
-.first-take-heading::after {
+.first-take-heading:before {
     content: " "; 
     width: 500px;
     height: 500px;
