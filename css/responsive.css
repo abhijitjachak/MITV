@@ -117,4 +117,8 @@
         line-height: 120px;
 
     }
+
+    .hero-header-section img{
+        width: 80%;
+    }
 }
