@@ -127,4 +127,15 @@
         top: 2px;
         left: -1px;
     }
+
+    .new-about-section .about-info-heading hr{
+        display: block;
+    }
+    .new-about-section .about-info-para{
+        font-size: 15px;
+    }
+
+    .new-about-section .watch-now-btn{
+        padding: 10px 50px;
+    }
 }
