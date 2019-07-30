@@ -105,4 +105,10 @@
         padding: 150px 15px;
     }
 
+    .channels-section .channel-shows .right-side-channel-bg hr {
+        height: 7px;
+        width: 50px;
+        margin-left: 20px;
+    }
+
 }
