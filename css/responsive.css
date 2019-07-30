@@ -119,13 +119,13 @@
     }
 
     .hero-header-section img{
-        width: 450px;
+        width: 491px;
     
     }
 
     .hero-header-section .hero-img {
-        top: 2px;
-        left: -1px;
+        top: 3px;
+        left: 0px;
     }
 
     .new-about-section .about-info-heading hr{
@@ -153,5 +153,9 @@
 
     .new-about-section .about-info-heading hr{
         height: 8px;
+    }
+
+    .new-about-section .watch-now-btn{
+        margin-top: 15px;
     }
 }
