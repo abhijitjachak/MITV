@@ -42,4 +42,10 @@
     .news-section{
         padding:0 15px;
     }
+
+    .news-section .news-section-heading hr {
+        display: block;
+        height: 7px;
+        width: 50px;
+    }
 }
