@@ -7020,45 +7020,6 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 
-@media (max-width: 1024px) {
-  .footer .footer-menu {
-    padding: 0 50px; } }
-
-@media (max-width: 520px) {
-  .footer .footer-menu .footer-col {
-    padding: 30px 0;
-    flex: 50%; }
-  .footer .footer-menu ul li {
-    padding: 8px 0; }
-  .footer .footer-logo {
-    padding: 0 30px; }
-    .footer .footer-logo .row {
-      padding: 20px 0;
-      line-height: 40px; }
-    .footer .footer-logo .social-icons i {
-      margin-left: 0; }
-  .footer .client-section {
-    padding: 0; }
-    .footer .client-section .client {
-      padding: 30px 0; }
-  .news-section {
-    padding: 0 15px; }
-    .news-section .news-section-heading {
-      font-size: 40px;
-      line-height: 50px;
-      padding-bottom: 50px;
-      padding-top: 50px; }
-      .news-section .news-section-heading hr {
-        display: block;
-        height: 7px;
-        width: 50px; }
-    .news-section .news-first-para img {
-      display: none; }
-    .news-section .news-first-para p {
-      font-size: 16px; }
-    .news-section .news-first-para h2 {
-      font-size: 25px; } }
-
 * {
   margin: 0;
   padding: 0;
@@ -7290,3 +7251,42 @@ footer section css start
 
 .footer .footer-menu ul li:nth-of-type(4) {
   padding-bottom: 0; }
+
+@media (max-width: 1024px) {
+  .footer .footer-menu {
+    padding: 0 50px; } }
+
+@media (max-width: 520px) {
+  .footer .footer-menu .footer-col {
+    padding: 30px 0;
+    flex: 50%; }
+  .footer .footer-menu ul li {
+    padding: 8px 0; }
+  .footer .footer-logo {
+    padding: 0 30px; }
+    .footer .footer-logo .row {
+      padding: 20px 0;
+      line-height: 40px; }
+    .footer .footer-logo .social-icons i {
+      margin-left: 0; }
+  .footer .client-section {
+    padding: 0; }
+    .footer .client-section .client {
+      padding: 30px 0; }
+  .news-section {
+    padding: 0 15px; }
+    .news-section .news-section-heading {
+      font-size: 40px;
+      line-height: 50px;
+      padding-bottom: 50px;
+      padding-top: 50px; }
+      .news-section .news-section-heading hr {
+        display: block;
+        height: 7px;
+        width: 50px; }
+    .news-section .news-first-para img {
+      display: none; }
+    .news-section .news-first-para p {
+      font-size: 16px; }
+    .news-section .news-first-para h2 {
+      font-size: 25px; } }

@@ -1,6 +1,6 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "mixin.scss";
-@import "responsive.scss";
+
 
 
 * {    
@@ -342,3 +342,8 @@ footer section css start
 .footer .footer-menu ul li:nth-of-type(4){
     padding-bottom: 0;
 }
+
+
+
+
+@import "responsive.scss";
