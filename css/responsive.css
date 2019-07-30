@@ -13,7 +13,8 @@
         padding: 150px 0;
     }
 
-    .channels-section .left-side-channel{
+    .channels-section .left-side-channel ,
+    .channels-section .left-side-sport{
         border-bottom: 10px solid white;
     }
 }
