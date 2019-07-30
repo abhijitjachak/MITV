@@ -87,4 +87,8 @@
     .channels-section p, .channels-section .channel-fashion p {
         font-size: 18px;
     }
+
+    .channels-section .left-side-sport{
+        border-right: none;
+    }
 }
