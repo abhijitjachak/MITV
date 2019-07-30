@@ -48,4 +48,8 @@
         height: 7px;
         width: 50px;
     }
+
+    .news-section .news-first-para div img{
+        display: none;
+    }
 }
