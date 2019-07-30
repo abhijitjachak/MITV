@@ -101,5 +101,8 @@
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 0;
     }
+    .channels-section .right-side-channel{
+        padding: 150px 15px;
+    }
 
 }
