@@ -60,4 +60,8 @@
     .news-section .news-first-para h2 {
         font-size: 25px;
     }
+
+    .news-section .news-first-para {
+        margin-bottom: 30px;
+    }
 }
