@@ -12,7 +12,12 @@
         border-right: none;
         padding: 150px 0;
     }
+
+    .channels-section .left-side-channel{
+        border-bottom: 10px soild white;
+    }
 }
+
 @media(max-width:768px){
 
 }
