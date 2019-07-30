@@ -7254,6 +7254,7 @@ footer section css start
   padding-bottom: 0; }
 
 .first-take-heading:after {
+  content: " ";
   width: 200px;
   height: 200px;
-  background-image: url(../images/slider.png); }
+  background-image: url("../images/slider.png"); }

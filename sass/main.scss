@@ -345,8 +345,9 @@ footer section css start
 
 
 
-.first-take-heading:after { 
+.first-take-heading:after {
+    content: " "; 
     width: 200px;
     height: 200px;
-    background-image: url(../images/slider.png);
+    background-image: url('../images/slider.png');
 }
