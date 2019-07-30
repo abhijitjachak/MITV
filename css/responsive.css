@@ -91,9 +91,10 @@
     }
 
     .channels-section .right-side-sport ,
-    .channels-section .left-side-sport {
+    .channels-section .left-side-sport ,
+    .channels-section .left-side-channel {
         border-right: none;
-        padding: 0 150px;
+        padding: 150px 0;
     }
 
 }
