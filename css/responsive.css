@@ -115,10 +115,10 @@
     .footer .footer-menu ul li {
         padding: 8px 0;
     }
-    .footer .footer-menu ,
+    /* .footer .footer-menu ,
     .footer-logo {
         padding: 0 15px;
-    }
+    } */
     .footer-logo .row {
         padding: 20px 0;
         line-height: 40px;
@@ -159,9 +159,9 @@
     .footer .client-section .client {
         padding: 30px 0;
     }
-    .footer .client-section {
+    /* .footer .client-section {
         padding: 0;
-    }
+    } */
 
     .news-section .news-section-heading{
     font-size: 40px;
