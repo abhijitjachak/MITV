@@ -20,11 +20,18 @@
 }
 
 @media(max-width:768px){
-    .channels-section h2, .channels-section .channel-fashion h2{
+    .channels-section h2, 
+    .channels-section .channel-fashion h2,
+    .channels-section .right-side-channel h2{
         font-size: 50px;
     }
-    .channels-section p, .channels-section .channel-fashion p{
+    .channels-section p, 
+    .channels-section .channel-fashion p{
         font-size: 22px;
+    }
+
+    .channels-section .right-side-channel .right-side-channel-bg{
+        padding-left: 0;
     }
 
 }
@@ -134,9 +141,6 @@
         font-size: 18px;
     }
 
-    .channels-section .right-side-channel .right-side-channel-bg{
-        padding-left: 0;
-    }
 
     .channels-section .channel-shows .right-side-channel-bg hr {
         height: 7px;
