@@ -280,10 +280,12 @@ footer section css start
 .footer{
     background: #000000;
     color: white;
-    background-image: url(../images/left-bottom-vector.png);
-    background-repeat: no-repeat;
-    background-position:-363px 485px;
 
+    .container{
+        background-image: url(../images/left-bottom-vector.png);
+        background-repeat: no-repeat;
+        background-position:-363px 485px;
+    }
     .client-section{
         background: white;
         // padding: 0 150px;
