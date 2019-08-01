@@ -56,6 +56,9 @@
     .news-section{
         background-position: 104px -784px,-369px 726px;
     }
+    .footer .client-section .client {
+        padding: 50px 0;
+    }
 }
 
 @media(max-width:768px){
@@ -97,7 +100,7 @@
     }
 
     .footer .client-section .client {
-        padding: 39px 0;
+        padding: 40px 0;
     }
 
 
