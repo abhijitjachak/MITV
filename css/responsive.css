@@ -182,4 +182,8 @@
     .new-about-section .watch-now-btn{
         margin-top: 15px;
     }
+
+    .channels-section .right-side-channel {
+        background-position: -141px -94px;
+    }
 }
