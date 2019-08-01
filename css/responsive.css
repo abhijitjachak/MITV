@@ -77,7 +77,8 @@
     .footer .footer-menu ul li {
         padding: 8px 0;
     }
-    .footer .footer-menu {
+    .footer .footer-menu ,
+    .footer-logo {
         padding: 0 15px;
     }
     .footer-logo .row {
@@ -107,9 +108,7 @@
     .footer .footer-menu ul li {
         padding: 8px 0;
     }
-    .footer-logo {
-        padding: 0 15px;
-    }
+
     .footer-logo .social-icons i{
         margin-left: 0;  
     }
