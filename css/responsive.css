@@ -58,6 +58,25 @@
     .news-section{
         padding:0 15px;
     }
+
+    .news-section .news-first-para h2 {
+        font-size: 30px;
+    }
+
+    .news-section .news-first-para {
+        margin-bottom: 60px;
+    }
+    .footer .client-section .client {
+        padding: 39px 0;
+    }
+
+    .footer .footer-menu .footer-col{
+        flex:50%;
+    }
+    .footer .footer-menu ul li {
+        padding: 8px 0;
+    }
+    
 }
 
 
