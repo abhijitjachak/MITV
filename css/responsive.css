@@ -53,6 +53,9 @@
     .news-section .news-first-para {
         margin-bottom: 60px;
     }
+    .news-section{
+        background-position: 104px -784px,-369px 726px;
+    }
 }
 
 @media(max-width:768px){
