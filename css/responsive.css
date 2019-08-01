@@ -20,14 +20,24 @@
 }
 
 @media(max-width:768px){
+    .channels-section h2, .channels-section .channel-fashion h2{
+        font-size: 50px;
+    }
+    .channels-section p, .channels-section .channel-fashion p{
+        font-size: 22px;
+    }
 
+    .channels-section .channel-view-all-btn a{
+        padding: 10px  50px;
+    }
+    .channels-section {
+        padding: 50px 0px;
+    }
+
+    .channels-section .channel-view-all-btn {
+        margin-top: 15px;
+    }
 }
-
-
-
-
-
-
 
 
 
@@ -94,17 +104,6 @@
         margin-bottom: 30px;
     }
 
-    .channels-section .channel-view-all-btn a{
-        padding: 10px  50px;
-    }
-    .channels-section {
-        padding: 50px 0px;
-    }
-
-    .channels-section .channel-view-all-btn {
-        margin-top: 15px;
-    }
-
     .channels-section h2, 
     .channels-section .channel-fashion h2 ,
     .channels-section .right-side-channel h2 {
@@ -115,12 +114,6 @@
     .channels-section .channel-fashion p {
         font-size: 18px;
     }
-    /* .channels-section .right-side-sport ,
-    .channels-section .left-side-sport ,
-    .channels-section .left-side-channel {
-        border-right: none;
-        padding: 150px 0;
-    } */
 
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 0;
