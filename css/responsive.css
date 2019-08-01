@@ -32,6 +32,16 @@
 
 
 @media(max-width:520px){
+    .channels-section .right-side-sport, 
+    .channels-section .left-side-sport, 
+    .channels-section .left-side-channel {
+        padding: 90px 0;
+    }
+    
+    .channels-section .right-side-channel {
+        padding: 90px 15px;
+    }
+
     .footer .footer-menu {
         padding: 0 15px;
     }
