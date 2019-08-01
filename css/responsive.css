@@ -17,6 +17,10 @@
     .channels-section .left-side-sport {
         border-bottom: 10px solid white;
     }
+
+    .channels-section .right-side-channel .right-side-channel-bg{
+        padding-left: 0;
+    }
 }
 
 @media(max-width:768px){
@@ -30,9 +34,6 @@
         font-size: 22px;
     }
 
-    .channels-section .right-side-channel .right-side-channel-bg{
-        padding-left: 0;
-    }
     .channels-section .right-side-channel {
         padding: 90px 15px;
     }  
