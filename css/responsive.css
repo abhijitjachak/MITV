@@ -37,12 +37,20 @@
         padding: 90px 15px;
     }  
     .channels-section .channel-view-all-btn {
-        margin-top: 30px;
+        margin-top: 15px;
     }
     .channels-section {
         padding: 50px 0px;
     }
-
+    .channels-section .channel-view-all-btn a{
+        padding: 15px 70px;
+    }
+    .news-section .news-section-heading{
+        line-height: 70px;
+        font-size: 60px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
 }
 
 
