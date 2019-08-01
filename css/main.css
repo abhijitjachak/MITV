@@ -7232,6 +7232,8 @@ footer section css start
         color: #bababa; }
     .footer .footer-menu .footer-col {
       padding: 100px 0; }
+    .footer .footer-menu .row {
+      padding: 0 15px; }
   .footer hr {
     background: #29292b;
     margin: 0; }
