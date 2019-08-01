@@ -31,6 +31,17 @@
     .channels-section .channel-view-all-btn a{
         padding:20px 70px;
     }
+
+    .channels-section .channel-view-all-btn {
+        margin-top: 20px;
+    }
+    .channels-section {
+        padding: 50px 0;
+    }
+
+    .news-section{
+        padding: 0 30px;
+    }
 }
 
 @media(max-width:768px){
