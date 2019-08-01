@@ -7216,8 +7216,6 @@ footer section css start
 .footer {
   background: #000000;
   color: white; }
-  .footer .footer-menu-logo-wrapper {
-    padding: 0 150px; }
   .footer .container {
     background-image: url(../images/left-bottom-vector.png);
     background-repeat: no-repeat;
@@ -7226,6 +7224,8 @@ footer section css start
     background: white; }
     .footer .client-section .client {
       padding: 150px 0; }
+  .footer .footer-menu-logo-wrapper {
+    padding: 0 150px; }
   .footer .footer-menu ul li {
     padding: 20px 0; }
     .footer .footer-menu ul li a {
