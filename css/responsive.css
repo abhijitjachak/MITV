@@ -49,6 +49,10 @@
         padding-bottom: 60px;
         padding-top: 60px;
     }
+    
+    .news-section .news-first-para {
+        margin-bottom: 60px;
+    }
 }
 
 @media(max-width:768px){
@@ -89,9 +93,6 @@
         font-size: 30px;
     }
 
-    .news-section .news-first-para {
-        margin-bottom: 60px;
-    }
     .footer .client-section .client {
         padding: 39px 0;
     }
