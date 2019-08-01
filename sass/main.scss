@@ -289,14 +289,11 @@ footer section css start
     }
     .client-section{
         background: white;
-        // padding: 0 150px;
-
-        .client{
-            padding: 150px 0;
-        }
+        // .client{
+        //     padding: 150px 0;
+        // }
     }
     .footer-menu{
-        // padding: 0 150px;
         ul{
             li{
                 padding: 20px 0;
@@ -318,6 +315,10 @@ footer section css start
     hr {
         background: #29292b;
         margin: 0;
+    }
+
+    .footer-menu-logo-wrapper{
+        padding: 0 150px;
     }
 }
 
