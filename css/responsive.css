@@ -36,7 +36,12 @@
     .channels-section .right-side-channel {
         padding: 90px 15px;
     }  
-
+    .channels-section .channel-view-all-btn {
+        margin-top: 30px;
+    }
+    .channels-section {
+        padding: 50px 0px;
+    }
 
 }
 
@@ -122,10 +127,7 @@
     .channels-section .channel-view-all-btn a{
         padding: 10px  50px;
     }
-    .channels-section {
-        padding: 50px 0px;
-    }
-
+ 
     .channels-section .channel-view-all-btn {
         margin-top: 15px;
     }
