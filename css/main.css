@@ -7219,27 +7219,23 @@ footer section css start
   background-repeat: no-repeat;
   background-position: -363px 485px; }
   .footer .client-section {
-    background: white;
-    padding: 0 150px; }
+    background: white; }
     .footer .client-section .client {
       padding: 150px 0; }
-  .footer .footer-menu {
-    padding: 0 150px; }
-    .footer .footer-menu ul li {
-      padding: 20px 0; }
-      .footer .footer-menu ul li a {
-        font-size: 18px;
-        color: #bababa; }
-    .footer .footer-menu .footer-col {
-      padding: 100px 0; }
-    .footer .footer-menu .row {
-      padding: 0 15px; }
+  .footer .footer-menu ul li {
+    padding: 20px 0; }
+    .footer .footer-menu ul li a {
+      font-size: 18px;
+      color: #bababa; }
+  .footer .footer-menu .footer-col {
+    padding: 100px 0; }
+  .footer .footer-menu .row {
+    padding: 0 15px; }
   .footer hr {
     background: #29292b;
     margin: 0; }
 
 .footer-logo {
-  padding: 0 150px;
   color: #bababa; }
   .footer-logo .social-icons i {
     margin: 0 15px;
