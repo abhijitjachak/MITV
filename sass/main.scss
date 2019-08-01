@@ -282,6 +282,9 @@ footer section css start
     background: #000000;
     color: white;
 
+    .footer-menu-logo-wrapper{
+        padding: 0 150px;
+    } 
     .container{
         background-image: url(../images/left-bottom-vector.png);
         background-repeat: no-repeat;
@@ -315,10 +318,6 @@ footer section css start
     hr {
         background: #29292b;
         margin: 0;
-    }
-
-    .footer-menu-logo-wrapper{
-        padding: 0 150px;
     }
 }
 
