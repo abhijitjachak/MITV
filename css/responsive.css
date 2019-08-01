@@ -32,6 +32,14 @@
 
 
 @media(max-width:520px){
+    .channels-section .left-side-channel, 
+    .channels-section .left-side-sport 
+    .channels-section .container .channel-shows, 
+    .channels-section .container .channel-video{
+        border-bottom: 3px solid white;
+    }
+
+
     .channels-section .right-side-sport, 
     .channels-section .left-side-sport, 
     .channels-section .left-side-channel {
@@ -129,7 +137,7 @@
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 0;
     }
-    
+
     .channels-section .channel-shows .right-side-channel-bg hr {
         height: 7px;
         width: 50px;
