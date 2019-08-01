@@ -90,6 +90,14 @@
         margin-left: 0;  
     }
 
+    .news-section{
+        background-position: 172px -611px,-445px 704px;
+    }
+
+    .footer{
+        background-position: -548px 513px;
+    }
+
 }
 
 
@@ -101,7 +109,6 @@
     .channels-section .container .channel-video{
         border-bottom: 3px solid white;
     }
-
 
     .channels-section .right-side-sport, 
     .channels-section .left-side-sport, 
