@@ -33,6 +33,10 @@
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 0;
     }
+    .channels-section .right-side-channel {
+        padding: 90px 15px;
+    }  
+
 
 }
 
@@ -53,10 +57,6 @@
         padding: 90px 0;
     }
     
-    .channels-section .right-side-channel {
-        padding: 90px 15px;
-    }  
-
     .footer .footer-menu {
         padding: 0 15px;
     }
