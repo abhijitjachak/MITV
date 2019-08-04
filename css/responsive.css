@@ -6,6 +6,9 @@
 } */
 
 @media(max-width:992px){
+    .channels-section .right-side-channel {
+        padding: 90px 30px;
+    }
     .channels-section .right-side-sport ,
     .channels-section .left-side-sport ,
     .channels-section .left-side-channel {
@@ -24,10 +27,6 @@
     .channels-section .right-side-channel h2{
         font-size: 72px;
     }
-    .channels-section .right-side-channel {
-        padding: 90px 15px;
-    } 
-
     .channels-section .channel-view-all-btn a{
         padding:20px 70px;
     }
@@ -122,10 +121,6 @@
     .footer .footer-menu ul li {
         padding: 8px 0;
     }
-    /* .footer .footer-menu ,
-    .footer-logo {
-        padding: 0 15px;
-    } */
     .footer-logo .row {
         padding: 20px 0;
         line-height: 40px;
@@ -267,11 +262,6 @@
 
     .new-about-section .watch-now-btn{
         margin-top: 15px;
-    }
-
-    .channels-section .right-side-channel {
-        background-position: -141px -94px;
-        padding: 90px 30px;
     }
 
     .footer .footer-menu .footer-col {
