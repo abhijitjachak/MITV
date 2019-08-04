@@ -73,6 +73,10 @@
 }
 
 @media(max-width:768px){
+    .footer .footer-menu-logo-wrapper {
+        padding: 0 0;
+    }
+    
     .channels-section h2, 
     .channels-section .channel-fashion h2,
     .channels-section .right-side-channel h2{
