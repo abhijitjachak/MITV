@@ -1,9 +1,9 @@
 
-/* @media (max-width:1024px){
-    .footer .footer-menu {
-        padding: 0 15px;
+@media (max-width:1024px){
+    .channels-section {
+        padding: 50px 0;
     }
-} */
+}
 
 @media(max-width:992px){
     .channels-section .right-side-channel {
@@ -33,9 +33,6 @@
 
     .channels-section .channel-view-all-btn {
         margin-top: 20px;
-    }
-    .channels-section {
-        padding: 50px 0;
     }
 
     .news-section{
@@ -67,7 +64,7 @@
         line-height: 40px;
     }
     .footer .footer-menu-logo-wrapper {
-        padding: 0 30px;
+        padding: 0 15px;
     }
 }
 
@@ -142,8 +139,6 @@
     }
 
 }
-
-
 
 @media(max-width:520px){
     .channels-section .left-side-channel, 
