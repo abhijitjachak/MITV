@@ -29,7 +29,7 @@
     }
 }
 
-@media(max-width:992px){
+@media(max-width:991px){
     .channels-section .right-side-channel {
         padding: 90px 30px;
     }
