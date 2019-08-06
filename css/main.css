@@ -7129,8 +7129,7 @@ channel section css start
   .channels-section .container .channel-video {
     border-bottom: 10px solid white; }
   .channels-section .left-side-channel,
-  .channels-section .left-side-sport,
-  .channels-section .right-side-sport {
+  .channels-section .left-side-sport {
     background: #000000;
     padding-top: 150px;
     padding-bottom: 350px; }
@@ -7152,6 +7151,10 @@ channel section css start
     .channels-section .right-side-channel .right-side-channel-bg {
       padding-left: 100px;
       padding-top: 150px; }
+  .channels-section .channels-section .right-side-sport {
+    background: #111113;
+    padding-top: 150px;
+    padding-bottom: 350px; }
   .channels-section .channel-view-all-btn {
     margin-top: 60px; }
     .channels-section .channel-view-all-btn a {
