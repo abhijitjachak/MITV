@@ -7145,14 +7145,13 @@ channel section css start
   .channels-section .right-side-channel {
     background-color: #111113;
     background-image: url("../images/right-side-channel-img.png");
-    background-repeat: no-repeat;
-    display: flex;
-    align-items: center; }
+    background-repeat: no-repeat; }
     .channels-section .right-side-channel h2 {
       color: white;
       font-size: 100px; }
     .channels-section .right-side-channel .right-side-channel-bg {
-      padding-left: 100px; }
+      padding-left: 100px;
+      padding-top: 150px; }
   .channels-section .channel-view-all-btn {
     margin-top: 60px; }
     .channels-section .channel-view-all-btn a {
