@@ -1,5 +1,5 @@
 
-@media (max-width:1200px){
+@media (max-width:1300px){
     .channels-section {
         padding: 50px 0;
     }
@@ -29,7 +29,7 @@
     }
 }
 
-@media(max-width:991px){
+@media(max-width:992px){
     .channels-section .right-side-channel {
         padding: 90px 30px;
     }
