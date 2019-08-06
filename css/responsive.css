@@ -13,6 +13,20 @@
     .channels-section .right-side-channel .right-side-channel-bg{
         padding-left: 70px;
     }
+
+    .news-section{
+        padding: 0 30px;
+    }
+    
+    .news-section .news-section-heading{
+        font-size: 70px;
+        line-height: 80px;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    .news-section .news-first-para {
+        margin-bottom: 50px;
+    }
 }
 
 @media(max-width:992px){
@@ -43,10 +57,6 @@
 
     .channels-section .channel-view-all-btn {
         margin-top: 20px;
-    }
-
-    .news-section{
-        padding: 0 30px;
     }
 
     .news-section .news-section-heading {
