@@ -7,6 +7,12 @@
     .channels-section .channel-fashion h2 {
         font-size: 60px;
     }
+    .channels-section .right-side-channel h2{
+        font-size: 70px;
+    }
+    .channels-section .right-side-channel .right-side-channel-bg{
+        padding-left: 70px;
+    }
 }
 
 @media(max-width:992px){
