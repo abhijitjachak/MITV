@@ -31,7 +31,7 @@
 
 @media(max-width:992px){
     .channels-section .right-side-channel {
-        padding: 90px 30px;
+        padding: 0px 30px 90px 30px;
     }
     .channels-section .right-side-sport ,
     .channels-section .left-side-sport ,
