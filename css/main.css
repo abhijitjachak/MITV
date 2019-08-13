@@ -7052,6 +7052,10 @@ li {
 /* ==========================================================================
 Header section css start
 ========================================================================== */
+header {
+  padding-bottom: 44px;
+  padding-top: 44px; }
+
 nav {
   padding: 44px 0; }
   nav .navbar-nav .nav-item .nav-link {
