@@ -7127,7 +7127,8 @@ channel section css start
 ========================================================================== */
 .channels-section {
   padding: 100px 100px;
-  background: white; }
+  background: white;
+  transform: translate(0, -183px); }
   .channels-section .channel-shows .right-side-channel-bg hr {
     display: inline-block;
     background: #f73646;
