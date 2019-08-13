@@ -7047,7 +7047,8 @@ li {
   padding-top: 100px; }
 
 .main-padding {
-  padding: 0 100px; }
+  padding-left: 100px;
+  padding-right: 100px; }
 
 /* ==========================================================================
 Header section css start
